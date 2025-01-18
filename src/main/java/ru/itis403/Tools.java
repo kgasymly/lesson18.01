@@ -29,14 +29,14 @@ public class Tools {
     public static void displayMenu(Role role) {
         switch (role) {
             case ADMIN:
-                System.out.println("\n--- ADMIN ---");
+                System.out.println("\nADMIN");
                 System.out.println("1. File");
                 System.out.println("2. Create new user");
                 System.out.println("3. Exit");
                 break;
 
             case USER:
-                System.out.println("\n--- USER ---");
+                System.out.println("\nUSER");
                 System.out.println("1. File");
                 System.out.println("2. Get play list");
                 System.out.println("3. Exit");
