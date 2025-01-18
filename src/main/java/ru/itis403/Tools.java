@@ -1,5 +1,6 @@
 package ru.itis403;
 
+
 public class Tools {
     public static Role userCheck(String login, String password) throws WrongLoginException, WrongPasswordException {
         if (!isValidLogin(login)) {

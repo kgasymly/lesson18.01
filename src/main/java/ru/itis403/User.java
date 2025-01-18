@@ -1,5 +1,4 @@
 package ru.itis403;
-
 import ru.itis403.Role;
 
 public class User {
