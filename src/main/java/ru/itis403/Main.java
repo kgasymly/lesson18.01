@@ -5,8 +5,8 @@ import java.util.Scanner;
 
 public class Main {
 
-    static User user1 = new User("aklwrg234t-({]", "kanangasymly3@gmail.com", Role.ADMIN);
-    static User user2 = new User("sopfdibnidug+-{:/!@", "petrosyandima23@gmail.com", Role.USER);
+    static User user1 = new User("kanangasymly3@gmail.com","aklwrg234t-({]", Role.ADMIN);
+    static User user2 = new User("petrosyandima23@gmail.com","sopfdibni123+-{:/!@", Role.USER);
 
 
     public static void main(String[] args) {
